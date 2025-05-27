@@ -2,16 +2,16 @@ class script(object):
     START_TXT = """<b>𝐇𝐞𝐥𝐥𝐨 {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
 
-🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Farooq_is_KING'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a></b>"""
+🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/tn_botz'>TN Botz</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Farooq_is_KING'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a></b>"""
+🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/tn_botz'>TN Botz</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/TG_filter_V1bot>TG_filter_V1bot</a>
- ‣ Create By : <a href='https://t.me/Farooq_is_KING'>WOODcraft</a> 
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Multi_filterz_bot>Multi Filterz bot</a>
+ ‣ Create By : <a href='https://t.me/tn_botz'>TN Botz</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -20,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
     SOURCE_TXT = """
 <b>Nᴏᴛᴇ:
-✭ Bᴏᴛ ɪs Rᴇᴅᴇsɪɢɴ ʙʏ <a href='https://t.me/Farooq_is_KING'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a>
+✭ Bᴏᴛ ɪs Rᴇᴅᴇsɪɢɴ ʙʏ <a href='https://t.me/tn_botz'>TN Botz</a>
 ✭ Sᴏᴜʀᴄᴇ - ɪᴛ's ᴀ ᴘʀɪᴠᴀᴛᴇ ʀᴇᴘᴏ
 ✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ</b>
 """
@@ -73,9 +73,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Farooq_is_KING>Owner</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/offx_sne_bot>Owner</a></b>
   
- <b>✯ Join here : <a href=https://t.me/Opleech>Join my updateds</a></b> 
+ <b>✯ Join here : <a href=https://t.me/TN_botz>Join my updateds</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -221,7 +221,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>══════════════════
 🗂 {file_name}
 ═════════════════════ 
-𝐉𝐨𝐢𝐧 𝐇𝐞𝐫𝐞 :- @WD_Topic_Group</b>"""
+𝐉𝐨𝐢𝐧 𝐇𝐞𝐫𝐞 :- @TN_BOTZ</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -474,23 +474,22 @@ Your time is valuable, Stop watching ads and simply avoid the stupidity
 
 Prime Membership Progress
 
-1 month - 0 Rs
+1 Week - 10 Rs
 
-3 Months – 00 RS
+1 Months – 35 RS
 
-6 months - 000 Rs
+6 months - 200 Rs
 
-12 Months - 0000 Rs [12 Month Free Trial]
-
-♛ UPI ID »»————> OpAngel@fan
+12 Months - 400 Rs 
+♛ UPI ID »»————> sakthirajtnbotz@fam
 
 Would you like to become a Prime Member? Follow these steps:-
 
-✤ Step 1: Go to any payment app like Google PAY, PAYTM,
+✤ Step 1: Go to any payment app like Google PAY, PAYTM, AnyOthers UPI's
 ✤ Step 2: Pay using UPI ID depending on your plan.
 ✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
 
-Any doubts or how to become a prime member? contact me @Farooq_is_KING @Farooq_is_KING</code></b>"""
+Any doubts or how to become a prime member? contact me @Offx_SNE_Bot</code></b>"""
 
 
 
